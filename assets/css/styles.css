@@ -16,7 +16,11 @@ h2{
   color: navy;
 }
 
-
+img.my-dog{
+  display: block;
+  margin: auto;
+  width: 30%;
+}
 
 p.intro{
   color: darkslategray;
