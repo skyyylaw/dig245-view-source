@@ -1,2 +1,44 @@
+*{
+  font-family: "Times New Roman", Times, serif;
+  background-color: antiquewhite;
+  margin: auto;
+}
 
-/* css */
+h1{
+  color:darkslategray;
+  text-align:center;
+  font-size: 40px;
+}
+
+h2{
+  font-size: 20px;
+  text-align: center;
+  color: navy;
+}
+
+
+
+p.intro{
+  color: darkslategray;
+  text-align:center;
+  font-weight: bold;
+}
+
+#tutorial{
+  font-size: 20px;
+  text-align: center;
+}
+
+div.instructions {
+  margin: auto;
+  width: 50%;
+  border: 3px solid maroon;
+  padding: 10px;
+}
+
+div.tips{
+  margin: auto;
+  width: 50%;
+  border: 3px solid darkgreen;
+  padding: 10px;
+}
