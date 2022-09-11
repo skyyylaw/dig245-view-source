@@ -73,3 +73,7 @@ div.Dodgecoin{
   margin: auto;
   width: 30%;
 }
+
+figcaption{
+  text-align: center;
+}
